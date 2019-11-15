@@ -7,7 +7,7 @@ vetitos. Silvis illi: ad ullum evincere, bello fecerat Cepheus verus.
 
 ## Vikingr son las racias organizadas en búsqueda de gloria
 
-![The Land of Vikings!](/img/vikingr.jpg "Norse Lands")
+![The Land of Vikings!](img/vikingr.jpg "Norse Lands")
 
 
 ## Et dis eum servatae

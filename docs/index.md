@@ -11,4 +11,4 @@ To visit the package distribution of my project visit: https://github.com/imriku
 
 ## Warriors
 
-![The Land of Vikings!](/img/vikingr2.jpg "Norse Lands")
+![The Land of Vikings!](img/vikingr2.jpg "Norse Lands")
