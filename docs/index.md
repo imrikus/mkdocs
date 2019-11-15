@@ -1,6 +1,6 @@
 # TRAVEL TO THE NORSE AGES
 
-For full documentation visit [mkdocs.org](http://mkdocs.org).
+To visit the package distribution of my project visit: https://github.com/imrikus/mkdocs/
 
 ## Commands
 
