@@ -1,4 +1,4 @@
-# Welcome to MkDocs
+# TRAVEL TO THE NORSE AGES
 
 For full documentation visit [mkdocs.org](http://mkdocs.org).
 
@@ -9,9 +9,6 @@ For full documentation visit [mkdocs.org](http://mkdocs.org).
 * `mkdocs build` - Build the documentation site.
 * `mkdocs help` - Print this help message.
 
-## Project layout
+## Warriors
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+![The Land of Vikings!](/img/vikingr2.jpg "Norse Lands")

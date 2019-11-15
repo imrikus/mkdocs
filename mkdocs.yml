@@ -1,2 +1,8 @@
-site_name: My Docs
+site_name: The Norse Era
+nav:
+  - Inicio: index.md
+  - Norse Ages: norseages.md
+  - Ancient Age: ancientage.md
+  - Middle Age: middleage.md
+  - Modern Age: modernage.md
 theme: windmill-dark
