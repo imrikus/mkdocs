@@ -6,7 +6,7 @@
 2. Middle Age
 3. Modern Age
 
-![The Land of Vikings!](/img/land.jpg "Norse Lands")
+![The Land of Vikings!](img/land.jpg "Norse Lands")
 
 ## Celeberrimus labore avitum
 
